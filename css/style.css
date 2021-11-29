@@ -1,6 +1,8 @@
 @media (max-width: 576px) {
-    .responsive {
-        font-size: 4vw;
-      }
+  .responsive {
+    font-size: 4vw;
+  }
+  .responsiveSubtitle {
+    font-size: 3vw;
+  }
 }
-
